@@ -1,6 +1,5 @@
 # Get Started with Eventarc: Challenge Lab || [ARC118](https://www.cloudskillsboost.google/focuses/63244?parent=catalog) ||
 
-## Solution [here](https://youtu.be/nBEGAJMi8t4)
 
 ### Run the following Commands in CloudShell
 
@@ -21,6 +20,5 @@ sudo chmod +x arc118.sh
 
 #### *Well done!*
 
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
 
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
+# [ARCADE ZONE LAB](https://www.youtube.com/@arcadezonelab)
