@@ -1,6 +1,5 @@
 # Analyze Sentiment with Natural Language API: Challenge Lab || [ARC130](https://www.cloudskillsboost.google/focuses/66586?parent=catalog) ||
 
-## Solution [here](https://youtu.be/KqEXYzmCo8U)
 
 ### Run the following Commands in CloudShell
 
@@ -18,6 +17,5 @@ gcloud compute ssh lab-vm --zone=$ZONE --quiet --command "curl -LO https://raw.g
 
 #### *Well done!*
 
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
 
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
+# [ARCADE ZONE LAB](https://www.youtube.com/@arcadezonelab)
