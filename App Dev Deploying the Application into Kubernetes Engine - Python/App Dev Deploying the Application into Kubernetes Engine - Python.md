@@ -1,6 +1,5 @@
 # App Dev: Deploying the Application into Kubernetes Engine - Python || [GSP188](https://www.cloudskillsboost.google/focuses/1073?parent=catalog) ||
 
-## Solution [here](https://youtu.be/ITLdXsePsMM)
 
 ### Run the following Commands in CloudShell
 
@@ -21,6 +20,5 @@ sudo chmod +x gsp188.sh
 
 #### *Well done!*
 
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
 
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
+# [ARCADE ZONE LAB](https://www.youtube.com/@arcadezonelab)
