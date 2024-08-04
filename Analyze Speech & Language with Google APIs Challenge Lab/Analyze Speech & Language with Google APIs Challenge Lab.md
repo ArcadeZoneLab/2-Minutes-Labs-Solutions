@@ -1,6 +1,5 @@
 # Analyze Speech & Language with Google APIs: Challenge Lab || [ARC114](https://www.cloudskillsboost.google/focuses/63851?parent=catalog) ||
 
-## Solution [here](https://youtu.be/1XeKZdLMODc)
 
 ### Run the following Commands in CloudShell
 
@@ -21,6 +20,5 @@ sudo chmod +x arc114.sh
 
 #### *Well done!*
 
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
 
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
+# [ARCADE ZONE LAB](https://www.youtube.com/@arcadezonelab)
