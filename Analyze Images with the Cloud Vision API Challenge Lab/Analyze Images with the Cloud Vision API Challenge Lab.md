@@ -1,6 +1,5 @@
 # Analyze Images with the Cloud Vision API: Challenge Lab || [ARC122](https://www.cloudskillsboost.google/focuses/64748?parent=catalog) ||
 
-## Solution [here](https://youtu.be/DFAprBXSma4)
 
 ### Run the following Commands in CloudShell
 
@@ -18,6 +17,5 @@ sudo chmod +x arc122.sh
 
 #### *Well done!*
 
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
 
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
+# [ARCADE ZONE LAB](https://www.youtube.com/@arcadezonelab)
