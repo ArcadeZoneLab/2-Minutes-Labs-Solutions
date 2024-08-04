@@ -1,6 +1,5 @@
 # Dataplex: Qwik Start - Console || [GSP1143](https://www.cloudskillsboost.google/focuses/62709?parent=catalog) ||
 
-## Solution [here](https://youtu.be/yDQfs8fNBgM)
 
 ### Run the following Commands in CloudShell
 
@@ -21,6 +20,5 @@ sudo chmod +x gsp1143.sh
 
 #### *Well done!*
 
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
 
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
+# [ARCADE ZONE LAB](https://www.youtube.com/@arcadezonelab)
