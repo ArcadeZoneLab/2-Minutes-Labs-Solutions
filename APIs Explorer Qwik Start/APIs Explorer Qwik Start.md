@@ -1,6 +1,5 @@
 # APIs Explorer: Qwik Start || [GSP277](https://www.cloudskillsboost.google/focuses/2457?parent=catalog) ||
 
-## Solution [here](https://youtu.be/4kJytzborPk)
 
 ### Run the following Commands in CloudShell
 
@@ -18,6 +17,5 @@ sudo chmod +x gsp277.sh
 
 #### *Well done!*
 
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
 
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
+# [ARCADE ZONE LAB](https://www.youtube.com/@arcadezonelab)
