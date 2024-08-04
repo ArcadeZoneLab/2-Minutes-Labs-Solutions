@@ -1,6 +1,5 @@
 # APIs Explorer: Cloud Storage || [GSP421](https://www.cloudskillsboost.google/focuses/3632?parent=catalog) ||
 
-## Solution [here](https://youtu.be/E2ztBJM9ycY)
 
 ### Run the following Commands in CloudShell
 
@@ -18,6 +17,5 @@ sudo chmod +x gsp421.sh
 
 #### *Well done!*
 
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
 
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
+# [ARCADE ZONE LAB](https://www.youtube.com/@arcadezonelab)
