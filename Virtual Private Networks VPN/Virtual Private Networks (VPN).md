@@ -1,6 +1,5 @@
 # [Virtual Private Networks (VPN)](https://www.cloudskillsboost.google/games/4770/labs/31092)
 
-## Solution [here](https://youtu.be/53EMmNwm9cw)
 
 ### Run the following Commands in CloudShell
 ```
@@ -20,6 +19,5 @@ sudo chmod +x VPN.sh
 
 #### *Well done!*
 
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
 
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
+# [ARCADE ZONE LAB](https://www.youtube.com/@arcadezonelab)
