@@ -1,6 +1,5 @@
 # Running Windows Containers on Compute Engine || [GSP153](https://www.cloudskillsboost.google/focuses/3348?parent=catalog) ||
 
-## Solution [here](https://youtu.be/7-UkrVD-SkQ)
 
 ### Run the following Commands in Command Prompt
 
@@ -46,6 +45,5 @@ docker images
 
 #### *Well done!*
 
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
 
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
+# [ARCADE ZONE LAB](https://www.youtube.com/@arcadezonelab)
